@@ -1,9 +1,3 @@
-# GitHub Profile README Draft
-
-This goes in a repo called `Cronan/Cronan` with this content in `README.md`.
-
----
-
 ### Ivan Cronyn
 
 Principal Engineer & Head of Solutions Technology at [Man Group](https://www.man.com/). I lead the engineering function for Man Solutions' bespoke investment mandates — portfolio optimisation, client reporting, and the tools that support new business.
